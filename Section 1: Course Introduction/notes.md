@@ -35,3 +35,26 @@
 - Backend-focused (frontend provided for visualization)
 - Practice every video by coding yourself
 - Team support for questions
+
+
+-------
+
+# Course Resources (3/500)
+
+## Source Code Repositories
+- **Java Source Code**: [go.telusko.com/javaCodeGit](https://go.telusko.com/javaCodeGit)
+- **Spring Source Code**: [go.telusko.com/springCodeGit](https://go.telusko.com/springCodeGit)
+- **Microservices Source Code**: [go.telusko.com/msCodeGit](https://go.telusko.com/msCodeGit)
+
+## Git Tutorial
+- Git section available at end of course for beginners
+
+## Learning Community
+- **TELUSKO Discord Community**: [discord.gg/pQHpxBBBBt](https://discord.gg/pQHpxBBBBt)
+- Free access
+- Connect with students, get help, share knowledge
+- 100% optional, not required to complete course
+
+**Instructor**: Navin Reddy
+
+
