@@ -30,13 +30,82 @@
 - Open terminal in VS Code and verify JDK by running `javac`.
 
 
---------
+-------
+
+
+# First Java Code (7/500)
+
+<img width="562" height="283" alt="image" src="https://github.com/user-attachments/assets/57d1cbf1-8509-496a-b49a-d5ebff214995" />
+
+    jshell> /exit
+    |  Goodbye
+
+## VS Code Setup
+- Open VS Code, select dark theme (eye-friendly).
+- Explorer (left): project files/folders.
+- Terminal (built-in): check Java setup (`java --version`, `javac --version`).
+- Java 17 LTS confirmed working.
+
+## Creating First Project
+- Open folder → Desktop → Create "Course" folder.
+- Create `hello.java` file (must use `.java` extension).
+- VS Code suggests Java Extension Pack (optional, provides suggestions).
+
+## JShell (Java 9+ Experimentation)
+- Interactive tool for quick testing: `jshell`
+- Basic operations: `2 + 3` → `5`, `9 - 6` → `3`
+- Printing:
+  - Numbers: `System.out.print(6);`
+  - Text: `System.out.print("hello world");`
+- **Key Rules:**
+  - Text in double quotes `""`
+  - End statements with semicolon `;`
+  - `System.out.print()` for output
+
+## Hello.java File (Project Building)
+- `.java` files for real projects (not JShell).
+- **Two-step process:** Compile → Run
+- Compile: `javac hello.java` → **Error** (missing class declaration).
+
+## Next Steps
+- JShell good for experiments/learning.
+- `.java` files need proper structure (class declaration) for compilation.
+- Proper Hello World structure covered in next video.
+
+
+
+-------
 
 
 
 
 
+-------
 
 
-## Ready to Code
-- Environment setup done; coding starts next video.
+
+
+
+-------
+
+
+
+
+
+-------
+
+
+
+
+
+-------
+
+
+
+
+
+-------
+
+
+
+
